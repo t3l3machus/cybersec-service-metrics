@@ -1,10 +1,10 @@
 ## Purpose
-A spreadsheet designed to automatically generate Key Performance Indicators (charts) for Cyber Security Services based on documented data, powered by formulas (no MACROS). Ideal for Team leaders / Managers of small, medium or even large organizations.
+A spreadsheet designed to automatically generate Key Performance Indicators (charts) for Cyber Security Services based on documented data, powered by formulas (no MACROS). Ideal for Team leaders / Managers of small-medium sized organizations.
 
-Comes with 20 rows of dummy data so you can quickly grasp an idea of how to use it. If you decide to use it in long term, make sure to check the LICENSE. 
+Comes with 20 rows of dummy data so you can quickly grasp an idea of how to use it. 
 
 ## Sneak Peek
-
+![Sneak Peak GIF](https://github.com/t3l3machus/cybersec-service-metrics/peek.gif)
 
 ## Support
 If you like the tools that are freely distributed by this repository and would like to see it grow, consider buying me a coffee or sharing it:  
