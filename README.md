@@ -4,7 +4,7 @@ A spreadsheet designed to automatically generate Key Performance Indicators (cha
 Comes with 20 rows of dummy data so you can quickly grasp an idea of how to use it. 
 
 ## Sneak Peek
-![Sneak Peak GIF](https://github.com/t3l3machus/cybersec-service-metrics/peek.gif)
+![](https://github.com/t3l3machus/cybersec-service-metrics/peek.gif)
 
 ## Support
 If you like the tools that are freely distributed by this repository and would like to see it grow, consider buying me a coffee or sharing it:  
