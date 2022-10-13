@@ -3,8 +3,10 @@ A spreadsheet designed to automatically generate Key Performance Indicators (cha
 
 Comes with 20 rows of dummy data so you can quickly grasp an idea of how to use it.  
 
+### Download:
+
 <a href="https://github.com/t3l3machus/cybersec-service-metrics/raw/main/Cybersec%20Service%20Metrics%20v1.0.xlsx" target="_blank">
-  <img alt="Download" height="40px" src="https://pics.freeicons.io/uploads/icons/png/7879948631581068450-512.png">
+  <img alt="Download" height="40px" src="https://img.icons8.com/color/344/export-excel.png">
 </a> 
 
 
